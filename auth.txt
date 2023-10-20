@@ -1,0 +1,7 @@
+https://api.instagram.com/oauth/authorize
+  ?client_id=298397099661769
+  &redirect_uri=https://alvinjz.me/
+  &scope=user_profile,user_media
+  &response_type=code
+
+  AQA-NxpJk4Q3klxaF8i7SbVA-bFCroIlfhudpZX3bg7lVl-4CjxfcvpoJ_SFfX_aKQdWkIfNAMH5m2aWhRL0lggnUvovuRSqM-XmnFl6uD2xZ4wagKwPDBuDQIzkiFCVa2qYGK9qGfUwaNGW52OFUBbrh543PDkX-U56ENMMBXL1zGPPMr7HqxC_4pAOOwrVSinidF7iLCZSISH2lEWo9LbRoQahhNY8F1iC-EOYRnr2fQ
